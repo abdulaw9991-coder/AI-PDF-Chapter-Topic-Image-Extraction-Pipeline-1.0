@@ -1,0 +1,2454 @@
+{
+    "pdf_name": "sample_book.pdf",
+    "total_pages": 1170,
+    "total_chapters": 22,
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "chapter_title": "Cover",
+            "start_page": 1,
+            "end_page": 4,
+            "topics": []
+        },
+        {
+            "chapter_number": 2,
+            "chapter_title": "Title Page",
+            "start_page": 5,
+            "end_page": 5,
+            "topics": []
+        },
+        {
+            "chapter_number": 3,
+            "chapter_title": "Copyright",
+            "start_page": 6,
+            "end_page": 6,
+            "topics": []
+        },
+        {
+            "chapter_number": 4,
+            "chapter_title": "Dedication",
+            "start_page": 7,
+            "end_page": 7,
+            "topics": []
+        },
+        {
+            "chapter_number": 5,
+            "chapter_title": "About the Authors",
+            "start_page": 8,
+            "end_page": 8,
+            "topics": []
+        },
+        {
+            "chapter_number": 6,
+            "chapter_title": "Preface",
+            "start_page": 9,
+            "end_page": 12,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "KEY FEATURES",
+                    "start_page": 9,
+                    "end_page": 9,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "RETAINED AND IMPROVED FEATURES",
+                    "start_page": 10,
+                    "end_page": 10,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "COMMITMENT TO EDUCATING STUDENTS",
+                    "start_page": 11,
+                    "end_page": 10,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "ABBREVIATIONS",
+                    "start_page": 11,
+                    "end_page": 12,
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "chapter_number": 7,
+            "chapter_title": "Acknowledgments",
+            "start_page": 13,
+            "end_page": 16,
+            "topics": []
+        },
+        {
+            "chapter_number": 8,
+            "chapter_title": "Contents",
+            "start_page": 17,
+            "end_page": 20,
+            "topics": []
+        },
+        {
+            "chapter_number": 9,
+            "chapter_title": "List of Clinical Blue Boxes",
+            "start_page": 21,
+            "end_page": 26,
+            "topics": []
+        },
+        {
+            "chapter_number": 10,
+            "chapter_title": "Figure Credits",
+            "start_page": 27,
+            "end_page": 30,
+            "topics": []
+        },
+        {
+            "chapter_number": 11,
+            "chapter_title": "Introduction to Clinically Oriented Anatomy",
+            "start_page": 31,
+            "end_page": 100,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "APPROACHES TO STUDYING ANATOMY",
+                    "start_page": 32,
+                    "end_page": 33,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Regional Anatomy",
+                            "start_page": 32,
+                            "end_page": 32
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Systemic Anatomy",
+                            "start_page": 33,
+                            "end_page": 33
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Clinical Anatomy",
+                            "start_page": 34,
+                            "end_page": 33
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "ANATOMICOMEDICAL TERMINOLOGY",
+                    "start_page": 34,
+                    "end_page": 41,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Anatomical Position",
+                            "start_page": 35,
+                            "end_page": 34
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Anatomical Planes",
+                            "start_page": 35,
+                            "end_page": 35
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Terms of Relationship and Comparison",
+                            "start_page": 36,
+                            "end_page": 36
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Terms of Laterality",
+                            "start_page": 37,
+                            "end_page": 36
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Terms of Movement",
+                            "start_page": 37,
+                            "end_page": 41
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "ANATOMICAL VARIATIONS",
+                    "start_page": 42,
+                    "end_page": 41,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "INTEGUMENTARY SYSTEM",
+                    "start_page": 42,
+                    "end_page": 45,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "FASCIAS, FASCIAL COMPARTMENTS, BURSAE, AND POTENTIAL SPACES",
+                    "start_page": 46,
+                    "end_page": 48,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "SKELETAL SYSTEM",
+                    "start_page": 49,
+                    "end_page": 58,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Cartilage and Bones",
+                            "start_page": 49,
+                            "end_page": 49
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Bone Markings and Formations",
+                            "start_page": 50,
+                            "end_page": 54
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Joints",
+                            "start_page": 55,
+                            "end_page": 58
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "MUSCLE TISSUE AND MUSCULAR SYSTEM",
+                    "start_page": 59,
+                    "end_page": 66,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Types of Muscle (Muscle Tissue)",
+                            "start_page": 59,
+                            "end_page": 58
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Skeletal Muscles",
+                            "start_page": 59,
+                            "end_page": 65
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Cardiac Striated Muscle",
+                            "start_page": 66,
+                            "end_page": 65
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Smooth Muscle",
+                            "start_page": 66,
+                            "end_page": 66
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 8,
+                    "topic_title": "CARDIOVASCULAR SYSTEM",
+                    "start_page": 67,
+                    "end_page": 72,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Vascular Circuits",
+                            "start_page": 67,
+                            "end_page": 66
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Blood Vessels",
+                            "start_page": 67,
+                            "end_page": 72
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 9,
+                    "topic_title": "LYMPHOID SYSTEM",
+                    "start_page": 73,
+                    "end_page": 75,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 10,
+                    "topic_title": "NERVOUS SYSTEM",
+                    "start_page": 76,
+                    "end_page": 95,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Central Nervous System",
+                            "start_page": 77,
+                            "end_page": 76
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Peripheral Nervous System",
+                            "start_page": 77,
+                            "end_page": 86
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Somatic Nervous System",
+                            "start_page": 87,
+                            "end_page": 86
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Autonomic Nervous System (ANS)",
+                            "start_page": 87,
+                            "end_page": 95
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 11,
+                    "topic_title": "MEDICAL IMAGING TECHNIQUES",
+                    "start_page": 96,
+                    "end_page": 100,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Conventional Radiography",
+                            "start_page": 96,
+                            "end_page": 96
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Computed Tomography",
+                            "start_page": 97,
+                            "end_page": 96
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Ultrasonography",
+                            "start_page": 97,
+                            "end_page": 97
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Magnetic Resonance Imaging",
+                            "start_page": 98,
+                            "end_page": 99
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Nuclear Medicine Imaging",
+                            "start_page": 100,
+                            "end_page": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 12,
+            "chapter_title": "CHAPTER 1: Thorax",
+            "start_page": 101,
+            "end_page": 210,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW OF THORAX",
+                    "start_page": 102,
+                    "end_page": 101,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "THORACIC WALL",
+                    "start_page": 102,
+                    "end_page": 135,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Skeleton of Thoracic Wall",
+                            "start_page": 104,
+                            "end_page": 107
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Thoracic Apertures",
+                            "start_page": 108,
+                            "end_page": 108
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Joints of Thoracic Wall",
+                            "start_page": 109,
+                            "end_page": 110
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Movements of Thoracic Wall",
+                            "start_page": 111,
+                            "end_page": 115
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Muscles of Thoracic Wall",
+                            "start_page": 116,
+                            "end_page": 120
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Fascia of Thoracic Wall",
+                            "start_page": 121,
+                            "end_page": 120
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Nerves of Thoracic Wall",
+                            "start_page": 121,
+                            "end_page": 122
+                        },
+                        {
+                            "subtopic_number": 8,
+                            "subtopic_title": "Vasculature of Thoracic Wall",
+                            "start_page": 123,
+                            "end_page": 127
+                        },
+                        {
+                            "subtopic_number": 9,
+                            "subtopic_title": "Breasts",
+                            "start_page": 128,
+                            "end_page": 128
+                        },
+                        {
+                            "subtopic_number": 10,
+                            "subtopic_title": "Surface Anatomy of Thoracic Wall",
+                            "start_page": 129,
+                            "end_page": 135
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "VISCERA OF THORACIC CAVITY",
+                    "start_page": 136,
+                    "end_page": 210,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Pleurae, Lungs, and Tracheobronchial Tree",
+                            "start_page": 138,
+                            "end_page": 157
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Overview of Mediastinum",
+                            "start_page": 158,
+                            "end_page": 157
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Pericardium",
+                            "start_page": 158,
+                            "end_page": 164
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Heart",
+                            "start_page": 165,
+                            "end_page": 189
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Superior Mediastinum and Great Vessels",
+                            "start_page": 190,
+                            "end_page": 195
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Posterior Mediastinum",
+                            "start_page": 196,
+                            "end_page": 200
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Anterior Mediastinum",
+                            "start_page": 201,
+                            "end_page": 200
+                        },
+                        {
+                            "subtopic_number": 8,
+                            "subtopic_title": "Surface Anatomy of Heart and Mediastinal Viscera",
+                            "start_page": 201,
+                            "end_page": 202
+                        },
+                        {
+                            "subtopic_number": 9,
+                            "subtopic_title": "Auscultatory Areas",
+                            "start_page": 203,
+                            "end_page": 210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 13,
+            "chapter_title": "CHAPTER 2: Abdomen",
+            "start_page": 211,
+            "end_page": 355,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW: WALLS, CAVITIES, REGIONS, AND PLANES",
+                    "start_page": 213,
+                    "end_page": 213,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "ANTEROLATERAL ABDOMINAL WALL",
+                    "start_page": 214,
+                    "end_page": 246,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Fascia of the Anterolateral Abdominal Wall",
+                            "start_page": 216,
+                            "end_page": 216
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Anterolateral Abdominal Wall",
+                            "start_page": 217,
+                            "end_page": 222
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Neurovasculature of Anterolateral Abdominal Wall",
+                            "start_page": 223,
+                            "end_page": 230
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Internal Surface of Anterolateral Abdominal Wall",
+                            "start_page": 231,
+                            "end_page": 231
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Inguinal Region",
+                            "start_page": 232,
+                            "end_page": 235
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Spermatic Cord, Scrotum, and Testes",
+                            "start_page": 236,
+                            "end_page": 239
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Surface Anatomy of Anterolateral Abdominal Wall",
+                            "start_page": 240,
+                            "end_page": 246
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "PERITONEUM AND PERITONEAL CAVITY",
+                    "start_page": 247,
+                    "end_page": 255,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Embryology of Peritoneal Cavity",
+                            "start_page": 248,
+                            "end_page": 248
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Peritoneal Formations",
+                            "start_page": 249,
+                            "end_page": 250
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Subdivisions of Peritoneal Cavity",
+                            "start_page": 251,
+                            "end_page": 255
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "ABDOMINAL VISCERA",
+                    "start_page": 256,
+                    "end_page": 335,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Overview of Abdominal Viscera and Digestive Tract",
+                            "start_page": 256,
+                            "end_page": 258
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Esophagus",
+                            "start_page": 259,
+                            "end_page": 259
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Stomach",
+                            "start_page": 260,
+                            "end_page": 268
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Small Intestine",
+                            "start_page": 269,
+                            "end_page": 275
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Large Intestine",
+                            "start_page": 276,
+                            "end_page": 292
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Spleen",
+                            "start_page": 293,
+                            "end_page": 294
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Pancreas",
+                            "start_page": 295,
+                            "end_page": 297
+                        },
+                        {
+                            "subtopic_number": 8,
+                            "subtopic_title": "Liver",
+                            "start_page": 298,
+                            "end_page": 306
+                        },
+                        {
+                            "subtopic_number": 9,
+                            "subtopic_title": "Biliary Ducts and Gallbladder",
+                            "start_page": 307,
+                            "end_page": 319
+                        },
+                        {
+                            "subtopic_number": 10,
+                            "subtopic_title": "Kidneys, Ureters, and Suprarenal Glands",
+                            "start_page": 320,
+                            "end_page": 330
+                        },
+                        {
+                            "subtopic_number": 11,
+                            "subtopic_title": "Summary of Innervation of Abdominal Viscera",
+                            "start_page": 331,
+                            "end_page": 335
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "DIAPHRAGM",
+                    "start_page": 336,
+                    "end_page": 338,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Vessels and Nerves of Diaphragm",
+                            "start_page": 337,
+                            "end_page": 337
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Diaphragmatic Apertures",
+                            "start_page": 338,
+                            "end_page": 338
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Actions of Diaphragm",
+                            "start_page": 339,
+                            "end_page": 338
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "POSTERIOR ABDOMINAL WALL",
+                    "start_page": 339,
+                    "end_page": 350,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Fascia of Posterior Abdominal Wall",
+                            "start_page": 340,
+                            "end_page": 340
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Posterior Abdominal Wall",
+                            "start_page": 341,
+                            "end_page": 341
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Nerves of Posterior Abdominal Wall",
+                            "start_page": 342,
+                            "end_page": 342
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Vessels of Posterior Abdominal Wall",
+                            "start_page": 343,
+                            "end_page": 350
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "SECTIONAL MEDICAL IMAGING OF ABDOMEN",
+                    "start_page": 351,
+                    "end_page": 355,
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "chapter_number": 14,
+            "chapter_title": "CHAPTER 3: Pelvis and Perineum",
+            "start_page": 356,
+            "end_page": 468,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "INTRODUCTION TO PELVIS AND PERINEUM",
+                    "start_page": 357,
+                    "end_page": 356,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "PELVIC GIRDLE",
+                    "start_page": 357,
+                    "end_page": 367,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Bones and Features of Pelvic Girdle",
+                            "start_page": 358,
+                            "end_page": 359
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Orientation of Pelvic Girdle",
+                            "start_page": 360,
+                            "end_page": 359
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Joints and Ligaments of Pelvic Girdle",
+                            "start_page": 360,
+                            "end_page": 367
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "PELVIC CAVITY",
+                    "start_page": 368,
+                    "end_page": 378,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Walls and Floor of Pelvic Cavity",
+                            "start_page": 368,
+                            "end_page": 372
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Peritoneum and Peritoneal Cavity of Pelvis",
+                            "start_page": 373,
+                            "end_page": 374
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Pelvic Fascia",
+                            "start_page": 375,
+                            "end_page": 378
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "NEUROVASCULAR STRUCTURES OF PELVIS",
+                    "start_page": 379,
+                    "end_page": 391,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Pelvic Arteries",
+                            "start_page": 380,
+                            "end_page": 384
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Pelvic Veins",
+                            "start_page": 385,
+                            "end_page": 385
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Lymph Nodes of Pelvis",
+                            "start_page": 386,
+                            "end_page": 386
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Pelvic Nerves",
+                            "start_page": 387,
+                            "end_page": 391
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "PELVIC VISCERA",
+                    "start_page": 392,
+                    "end_page": 431,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Urinary Organs",
+                            "start_page": 392,
+                            "end_page": 397
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Rectum",
+                            "start_page": 398,
+                            "end_page": 405
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Male Internal Genital Organs",
+                            "start_page": 406,
+                            "end_page": 411
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Female Internal Genital Organs",
+                            "start_page": 412,
+                            "end_page": 429
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Lymphatic Drainage of Pelvic Viscera",
+                            "start_page": 430,
+                            "end_page": 431
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "PERINEUM",
+                    "start_page": 432,
+                    "end_page": 463,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Fasciae and Pouches of Urogenital Triangle",
+                            "start_page": 434,
+                            "end_page": 439
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Features of Anal Triangle",
+                            "start_page": 440,
+                            "end_page": 447
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Male Urogenital Triangle",
+                            "start_page": 448,
+                            "end_page": 457
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Female Urogenital Triangle",
+                            "start_page": 458,
+                            "end_page": 463
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "SECTIONAL IMAGING OF PELVIS AND PERINEUM",
+                    "start_page": 464,
+                    "end_page": 468,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Magnetic Resonance Imaging",
+                            "start_page": 464,
+                            "end_page": 468
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 15,
+            "chapter_title": "CHAPTER 4: Back",
+            "start_page": 469,
+            "end_page": 537,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW OF BACK AND VERTEBRAL COLUMN",
+                    "start_page": 470,
+                    "end_page": 469,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "VERTEBRAE",
+                    "start_page": 470,
+                    "end_page": 493,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Structure and Function of Vertebrae",
+                            "start_page": 470,
+                            "end_page": 472
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Regional Characteristics of Vertebrae",
+                            "start_page": 473,
+                            "end_page": 482
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Ossification of Vertebrae",
+                            "start_page": 483,
+                            "end_page": 484
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Variations in Vertebrae",
+                            "start_page": 485,
+                            "end_page": 493
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "VERTEBRAL COLUMN",
+                    "start_page": 494,
+                    "end_page": 511,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Joints of Vertebral Column",
+                            "start_page": 494,
+                            "end_page": 499
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Movements of Vertebral Column",
+                            "start_page": 500,
+                            "end_page": 499
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Curvatures of Vertebral Column",
+                            "start_page": 500,
+                            "end_page": 501
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Vasculature of Vertebral Column",
+                            "start_page": 502,
+                            "end_page": 502
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Nerves of Vertebral Column",
+                            "start_page": 503,
+                            "end_page": 511
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "MUSCLES OF BACK",
+                    "start_page": 512,
+                    "end_page": 525,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Extrinsic Back Muscles",
+                            "start_page": 512,
+                            "end_page": 511
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Intrinsic Back Muscles",
+                            "start_page": 512,
+                            "end_page": 521
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Surface Anatomy of Back Muscles",
+                            "start_page": 522,
+                            "end_page": 521
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Suboccipital and Deep Neck Muscles",
+                            "start_page": 522,
+                            "end_page": 525
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "CONTENTS OF VERTEBRAL CANAL",
+                    "start_page": 526,
+                    "end_page": 537,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Spinal Cord",
+                            "start_page": 526,
+                            "end_page": 525
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Spinal Nerves and Nerve Roots",
+                            "start_page": 526,
+                            "end_page": 527
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Spinal Meninges and Cerebrospinal Fluid (CSF)",
+                            "start_page": 528,
+                            "end_page": 530
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Vasculature of Spinal Cord and Spinal Nerve Roots",
+                            "start_page": 531,
+                            "end_page": 537
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 16,
+            "chapter_title": "CHAPTER 5: Lower Limb",
+            "start_page": 538,
+            "end_page": 699,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW OF LOWER LIMB",
+                    "start_page": 540,
+                    "end_page": 539,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "DEVELOPMENT OF LOWER LIMB",
+                    "start_page": 540,
+                    "end_page": 541,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "BONES OF LOWER LIMB",
+                    "start_page": 542,
+                    "end_page": 561,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Arrangement of Lower Limb Bones",
+                            "start_page": 542,
+                            "end_page": 543
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Hip Bone",
+                            "start_page": 544,
+                            "end_page": 545
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Femur",
+                            "start_page": 546,
+                            "end_page": 549
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Tibia and Fibula",
+                            "start_page": 550,
+                            "end_page": 551
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Bones of Foot",
+                            "start_page": 552,
+                            "end_page": 553
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Bones of Foot",
+                            "start_page": 554,
+                            "end_page": 561
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "FASCIA, VEINS, LYMPHATICS, EFFERENT VESSELS, AND CUTANEOUS NERVES OF LOWER LIMB",
+                    "start_page": 562,
+                    "end_page": 571,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Subcutaneous Tissue and Fascia",
+                            "start_page": 562,
+                            "end_page": 561
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Venous Drainage of Lower Limb",
+                            "start_page": 562,
+                            "end_page": 564
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Lymphatic Drainage of Lower Limb",
+                            "start_page": 565,
+                            "end_page": 565
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Cutaneous Innervation of Lower Limb",
+                            "start_page": 566,
+                            "end_page": 567
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Motor Innervation of Lower Limb",
+                            "start_page": 568,
+                            "end_page": 571
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "POSTURE AND GAIT",
+                    "start_page": 572,
+                    "end_page": 574,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Standing at Ease",
+                            "start_page": 572,
+                            "end_page": 571
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Walking: The Gait Cycle",
+                            "start_page": 572,
+                            "end_page": 574
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "ANTERIOR AND MEDIAL REGIONS OF THIGH",
+                    "start_page": 575,
+                    "end_page": 591,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Organization of Proximal Lower Limb",
+                            "start_page": 575,
+                            "end_page": 574
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Anterior Thigh Muscles",
+                            "start_page": 575,
+                            "end_page": 577
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Medial Thigh Muscles",
+                            "start_page": 578,
+                            "end_page": 580
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Neurovascular Structures and Relationships in Anteromedial Thigh",
+                            "start_page": 581,
+                            "end_page": 586
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Surface Anatomy of Anterior and Medial Regions of Thigh",
+                            "start_page": 587,
+                            "end_page": 591
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "GLUTEAL AND POSTERIOR THIGH REGIONS",
+                    "start_page": 592,
+                    "end_page": 613,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Gluteal Region: Buttocks and Hip Region",
+                            "start_page": 592,
+                            "end_page": 592
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Gluteal Region",
+                            "start_page": 593,
+                            "end_page": 598
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Posterior Thigh Region",
+                            "start_page": 599,
+                            "end_page": 601
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Neurovascular Structures of Gluteal and Posterior Thigh Regions",
+                            "start_page": 602,
+                            "end_page": 607
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Surface Anatomy of Gluteal and Posterior Thigh Regions",
+                            "start_page": 608,
+                            "end_page": 613
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 8,
+                    "topic_title": "POPLITEAL FOSSA AND LEG",
+                    "start_page": 614,
+                    "end_page": 638,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Popliteal Region",
+                            "start_page": 614,
+                            "end_page": 616
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Anterior Compartment of Leg",
+                            "start_page": 617,
+                            "end_page": 624
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Lateral Compartment of Leg",
+                            "start_page": 625,
+                            "end_page": 625
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Posterior Compartment of Leg",
+                            "start_page": 626,
+                            "end_page": 632
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Surface Anatomy of Leg",
+                            "start_page": 633,
+                            "end_page": 638
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 9,
+                    "topic_title": "FOOT",
+                    "start_page": 639,
+                    "end_page": 655,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Skin and Fascia of Foot",
+                            "start_page": 640,
+                            "end_page": 639
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Foot",
+                            "start_page": 640,
+                            "end_page": 643
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Neurovascular Structures and Relationships in Foot",
+                            "start_page": 644,
+                            "end_page": 651
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Surface Anatomy of Ankle and Foot Regions",
+                            "start_page": 652,
+                            "end_page": 655
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 10,
+                    "topic_title": "JOINTS OF LOWER LIMB",
+                    "start_page": 656,
+                    "end_page": 699,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Hip Joint",
+                            "start_page": 656,
+                            "end_page": 663
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Knee Joint",
+                            "start_page": 664,
+                            "end_page": 674
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Tibiofibular Joints",
+                            "start_page": 675,
+                            "end_page": 676
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Ankle Joint",
+                            "start_page": 677,
+                            "end_page": 679
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Foot Joints",
+                            "start_page": 680,
+                            "end_page": 685
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Joints of Knee, Ankle, and Foot",
+                            "start_page": 686,
+                            "end_page": 699
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 17,
+            "chapter_title": "CHAPTER 6: Upper Limb",
+            "start_page": 700,
+            "end_page": 849,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW OF UPPER LIMB",
+                    "start_page": 702,
+                    "end_page": 702,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "COMPARISON OF UPPER AND LOWER LIMBS",
+                    "start_page": 703,
+                    "end_page": 702,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "BONES OF UPPER LIMB",
+                    "start_page": 703,
+                    "end_page": 717,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Clavicle",
+                            "start_page": 703,
+                            "end_page": 704
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Scapula",
+                            "start_page": 705,
+                            "end_page": 705
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Humerus",
+                            "start_page": 706,
+                            "end_page": 706
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Bones of Forearm",
+                            "start_page": 707,
+                            "end_page": 708
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Bones of Hand",
+                            "start_page": 709,
+                            "end_page": 709
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Upper Limb Bones",
+                            "start_page": 710,
+                            "end_page": 717
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "FASCIA, EFFERENT VESSELS, CUTANEOUS INNERVATION, AND MYOTOMES OF UPPER LIMB",
+                    "start_page": 718,
+                    "end_page": 726,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Fascia of Upper Limb",
+                            "start_page": 718,
+                            "end_page": 718
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Venous Drainage of Upper Limb",
+                            "start_page": 719,
+                            "end_page": 720
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Lymphatic Drainage of Upper Limb",
+                            "start_page": 721,
+                            "end_page": 722
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Cutaneous Innervation of Upper Limb",
+                            "start_page": 723,
+                            "end_page": 722
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Motor Innervation (Myotomes) of Upper Limb",
+                            "start_page": 723,
+                            "end_page": 726
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "PECTORAL AND SCAPULAR REGIONS",
+                    "start_page": 727,
+                    "end_page": 742,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Anterior Axio-appendicular Muscles",
+                            "start_page": 727,
+                            "end_page": 729
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Posterior Axio-appendicular and Scapulohumeral Muscles",
+                            "start_page": 730,
+                            "end_page": 733
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Scapulohumeral (Intrinsic Shoulder) Muscles",
+                            "start_page": 734,
+                            "end_page": 736
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Surface Anatomy of Pectoral, Scapular, and Deltoid Regions",
+                            "start_page": 737,
+                            "end_page": 742
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "AXILLA",
+                    "start_page": 743,
+                    "end_page": 760,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Axillary Artery",
+                            "start_page": 745,
+                            "end_page": 747
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Axillary Vein",
+                            "start_page": 748,
+                            "end_page": 748
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Axillary Lymph Nodes",
+                            "start_page": 749,
+                            "end_page": 750
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Brachial Plexus",
+                            "start_page": 751,
+                            "end_page": 760
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "ARM",
+                    "start_page": 761,
+                    "end_page": 773,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Muscles of Arm",
+                            "start_page": 761,
+                            "end_page": 765
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Brachial Artery",
+                            "start_page": 766,
+                            "end_page": 766
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Veins of Arm",
+                            "start_page": 767,
+                            "end_page": 766
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Nerves of Arm",
+                            "start_page": 767,
+                            "end_page": 768
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Cubital Fossa",
+                            "start_page": 769,
+                            "end_page": 768
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Arm and Cubital Fossa",
+                            "start_page": 769,
+                            "end_page": 773
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 8,
+                    "topic_title": "FOREARM",
+                    "start_page": 774,
+                    "end_page": 800,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Compartments of Forearm",
+                            "start_page": 774,
+                            "end_page": 775
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Forearm",
+                            "start_page": 776,
+                            "end_page": 786
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Arteries of Forearm",
+                            "start_page": 787,
+                            "end_page": 789
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Veins of Forearm",
+                            "start_page": 790,
+                            "end_page": 790
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Nerves of Forearm",
+                            "start_page": 791,
+                            "end_page": 793
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Forearm",
+                            "start_page": 794,
+                            "end_page": 800
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 9,
+                    "topic_title": "HAND",
+                    "start_page": 801,
+                    "end_page": 822,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Fascia and Compartments of Palm",
+                            "start_page": 801,
+                            "end_page": 802
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Muscles of Hand",
+                            "start_page": 803,
+                            "end_page": 808
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Long Flexor Tendons and Tendon Sheaths in Hand",
+                            "start_page": 809,
+                            "end_page": 808
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Arteries of Hand",
+                            "start_page": 809,
+                            "end_page": 811
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Veins of Hand",
+                            "start_page": 812,
+                            "end_page": 811
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Nerves of Hand",
+                            "start_page": 812,
+                            "end_page": 815
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Surface Anatomy of Hand",
+                            "start_page": 816,
+                            "end_page": 822
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 10,
+                    "topic_title": "JOINTS OF UPPER LIMB",
+                    "start_page": 823,
+                    "end_page": 849,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Sternoclavicular Joint",
+                            "start_page": 824,
+                            "end_page": 825
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Acromioclavicular Joint",
+                            "start_page": 826,
+                            "end_page": 825
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Glenohumeral Joint",
+                            "start_page": 826,
+                            "end_page": 829
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Elbow Joint",
+                            "start_page": 830,
+                            "end_page": 833
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Proximal Radio-Ulnar Joint",
+                            "start_page": 834,
+                            "end_page": 835
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Distal Radio-Ulnar Joint",
+                            "start_page": 836,
+                            "end_page": 838
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Wrist Joint",
+                            "start_page": 839,
+                            "end_page": 838
+                        },
+                        {
+                            "subtopic_number": 8,
+                            "subtopic_title": "Intercarpal Joints",
+                            "start_page": 839,
+                            "end_page": 840
+                        },
+                        {
+                            "subtopic_number": 9,
+                            "subtopic_title": "Carpometacarpal and Intermetacarpal Joints",
+                            "start_page": 841,
+                            "end_page": 841
+                        },
+                        {
+                            "subtopic_number": 10,
+                            "subtopic_title": "Metacarpophalangeal and Interphalangeal Joints",
+                            "start_page": 842,
+                            "end_page": 849
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 18,
+            "chapter_title": "CHAPTER 7: Head",
+            "start_page": 850,
+            "end_page": 1010,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW OF HEAD",
+                    "start_page": 852,
+                    "end_page": 851,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "CRANIUM",
+                    "start_page": 852,
+                    "end_page": 871,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Facial Aspect of Cranium",
+                            "start_page": 852,
+                            "end_page": 856
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Lateral Aspect of Cranium",
+                            "start_page": 857,
+                            "end_page": 857
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Occipital Aspect of Cranium",
+                            "start_page": 858,
+                            "end_page": 858
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Superior Aspect of Cranium",
+                            "start_page": 859,
+                            "end_page": 858
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "External Surface of Cranial Base",
+                            "start_page": 859,
+                            "end_page": 859
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Internal Surface of Cranial Base",
+                            "start_page": 860,
+                            "end_page": 864
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Walls of Cranial Cavity",
+                            "start_page": 865,
+                            "end_page": 865
+                        },
+                        {
+                            "subtopic_number": 8,
+                            "subtopic_title": "Regions of Head",
+                            "start_page": 866,
+                            "end_page": 871
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "FACE AND SCALP",
+                    "start_page": 872,
+                    "end_page": 894,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Face",
+                            "start_page": 872,
+                            "end_page": 872
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Scalp",
+                            "start_page": 873,
+                            "end_page": 873
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Muscles of Face and Scalp",
+                            "start_page": 874,
+                            "end_page": 878
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Nerves of Face and Scalp",
+                            "start_page": 879,
+                            "end_page": 884
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Superficial Vasculature of Face and Scalp",
+                            "start_page": 885,
+                            "end_page": 888
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Surface Anatomy of Face",
+                            "start_page": 889,
+                            "end_page": 894
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "CRANIAL MENINGES",
+                    "start_page": 895,
+                    "end_page": 907,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Dura Mater",
+                            "start_page": 895,
+                            "end_page": 901
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Arachnoid Mater and Pia Mater",
+                            "start_page": 902,
+                            "end_page": 901
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Meningeal Spaces",
+                            "start_page": 902,
+                            "end_page": 907
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "BRAIN",
+                    "start_page": 908,
+                    "end_page": 918,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Parts of Brain",
+                            "start_page": 908,
+                            "end_page": 907
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Ventricular System of Brain",
+                            "start_page": 908,
+                            "end_page": 911
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Arterial Blood Supply to Brain",
+                            "start_page": 912,
+                            "end_page": 912
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Venous Drainage of Brain",
+                            "start_page": 913,
+                            "end_page": 918
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "EYE, ORBIT, ORBITAL REGION, AND EYEBALL",
+                    "start_page": 919,
+                    "end_page": 943,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Orbits",
+                            "start_page": 919,
+                            "end_page": 920
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Eyelids and Lacrimal Apparatus",
+                            "start_page": 921,
+                            "end_page": 922
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Eyeball",
+                            "start_page": 923,
+                            "end_page": 927
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Extra-ocular Muscles of Orbit",
+                            "start_page": 928,
+                            "end_page": 932
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Nerves of Orbit",
+                            "start_page": 933,
+                            "end_page": 934
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Vasculature of Orbit",
+                            "start_page": 935,
+                            "end_page": 936
+                        },
+                        {
+                            "subtopic_number": 7,
+                            "subtopic_title": "Surface Anatomy of Eye and Lacrimal Apparatus",
+                            "start_page": 937,
+                            "end_page": 943
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "PAROTID AND TEMPORAL REGIONS, INFRATEMPORAL FOSSA, AND TEMPOROMANDIBULAR JOINT",
+                    "start_page": 944,
+                    "end_page": 957,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Parotid Region",
+                            "start_page": 944,
+                            "end_page": 945
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Temporal Region",
+                            "start_page": 946,
+                            "end_page": 945
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Infratemporal Fossa",
+                            "start_page": 946,
+                            "end_page": 957
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 8,
+                    "topic_title": "ORAL REGION",
+                    "start_page": 958,
+                    "end_page": 980,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Oral Cavity",
+                            "start_page": 958,
+                            "end_page": 957
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Lips, Cheeks, and Gingivae",
+                            "start_page": 958,
+                            "end_page": 959
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Teeth",
+                            "start_page": 960,
+                            "end_page": 963
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Palate",
+                            "start_page": 964,
+                            "end_page": 967
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Tongue",
+                            "start_page": 968,
+                            "end_page": 972
+                        },
+                        {
+                            "subtopic_number": 6,
+                            "subtopic_title": "Salivary Glands",
+                            "start_page": 973,
+                            "end_page": 980
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 9,
+                    "topic_title": "PTERYGOPALATINE FOSSA",
+                    "start_page": 981,
+                    "end_page": 984,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Pterygopalatine Part of Maxillary Artery",
+                            "start_page": 981,
+                            "end_page": 980
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Maxillary Nerve",
+                            "start_page": 981,
+                            "end_page": 984
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 10,
+                    "topic_title": "NOSE",
+                    "start_page": 985,
+                    "end_page": 995,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "External Nose",
+                            "start_page": 985,
+                            "end_page": 985
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Nasal Cavities",
+                            "start_page": 986,
+                            "end_page": 988
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Vasculature and Innervation of Nose",
+                            "start_page": 989,
+                            "end_page": 989
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Paranasal Sinuses",
+                            "start_page": 990,
+                            "end_page": 995
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 11,
+                    "topic_title": "EAR",
+                    "start_page": 996,
+                    "end_page": 1010,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "External Ear",
+                            "start_page": 996,
+                            "end_page": 996
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Middle Ear",
+                            "start_page": 997,
+                            "end_page": 1002
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Internal Ear",
+                            "start_page": 1003,
+                            "end_page": 1010
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_number": 19,
+            "chapter_title": "CHAPTER 8: Neck",
+            "start_page": 1011,
+            "end_page": 1082,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW",
+                    "start_page": 1012,
+                    "end_page": 1011,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "BONES OF NECK",
+                    "start_page": 1012,
+                    "end_page": 1014,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Cervical Vertebrae",
+                            "start_page": 1012,
+                            "end_page": 1013
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Hyoid Bone",
+                            "start_page": 1014,
+                            "end_page": 1014
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "FASCIA OF NECK",
+                    "start_page": 1015,
+                    "end_page": 1018,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Cervical Subcutaneous Tissue and Platysma",
+                            "start_page": 1015,
+                            "end_page": 1016
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Deep Cervical Fascia",
+                            "start_page": 1017,
+                            "end_page": 1018
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "SUPERFICIAL STRUCTURES OF NECK: CERVICAL REGIONS",
+                    "start_page": 1019,
+                    "end_page": 1041,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Sternocleidomastoid Region",
+                            "start_page": 1019,
+                            "end_page": 1021
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Posterior Cervical Region",
+                            "start_page": 1022,
+                            "end_page": 1021
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Lateral Cervical Region",
+                            "start_page": 1022,
+                            "end_page": 1028
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Anterior Cervical Region",
+                            "start_page": 1029,
+                            "end_page": 1034
+                        },
+                        {
+                            "subtopic_number": 5,
+                            "subtopic_title": "Surface Anatomy of Cervical Regions and Triangles of Neck",
+                            "start_page": 1035,
+                            "end_page": 1041
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "DEEP STRUCTURES OF NECK",
+                    "start_page": 1042,
+                    "end_page": 1047,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Prevertebral Muscles",
+                            "start_page": 1042,
+                            "end_page": 1041
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Root of Neck",
+                            "start_page": 1042,
+                            "end_page": 1047
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "VISCERA OF NECK",
+                    "start_page": 1048,
+                    "end_page": 1080,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Endocrine Layer of Cervical Viscera",
+                            "start_page": 1048,
+                            "end_page": 1050
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Respiratory Layer of Cervical Viscera",
+                            "start_page": 1051,
+                            "end_page": 1061
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Alimentary Layer of Cervical Viscera",
+                            "start_page": 1062,
+                            "end_page": 1068
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Surface Anatomy of Endocrine and Respiratory Layers of Cervical Viscera",
+                            "start_page": 1069,
+                            "end_page": 1080
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "LYMPHATICS OF NECK",
+                    "start_page": 1081,
+                    "end_page": 1082,
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "chapter_number": 20,
+            "chapter_title": "CHAPTER 9: Summary of Cranial Nerves",
+            "start_page": 1083,
+            "end_page": 1112,
+            "topics": [
+                {
+                    "topic_number": 1,
+                    "topic_title": "OVERVIEW",
+                    "start_page": 1084,
+                    "end_page": 1083,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 2,
+                    "topic_title": "OLFACTORY NERVE (CN I)",
+                    "start_page": 1084,
+                    "end_page": 1090,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 3,
+                    "topic_title": "OPTIC NERVE (CN II)",
+                    "start_page": 1091,
+                    "end_page": 1091,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 4,
+                    "topic_title": "OCULOMOTOR NERVE (CN III)",
+                    "start_page": 1092,
+                    "end_page": 1093,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 5,
+                    "topic_title": "TROCHLEAR NERVE (CN IV)",
+                    "start_page": 1094,
+                    "end_page": 1094,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 6,
+                    "topic_title": "TRIGEMINAL NERVE (CN V)",
+                    "start_page": 1095,
+                    "end_page": 1097,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Ophthalmic Nerve (CN V1)",
+                            "start_page": 1095,
+                            "end_page": 1094
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Maxillary Nerve (CN V2)",
+                            "start_page": 1095,
+                            "end_page": 1094
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Mandibular Nerve (CN V3)",
+                            "start_page": 1095,
+                            "end_page": 1097
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 7,
+                    "topic_title": "ABDUCENT NERVE (CN VI)",
+                    "start_page": 1098,
+                    "end_page": 1097,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 8,
+                    "topic_title": "FACIAL NERVE (CN VII)",
+                    "start_page": 1098,
+                    "end_page": 1100,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Somatic (Branchial) Motor",
+                            "start_page": 1098,
+                            "end_page": 1097
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Visceral (Parasympathetic) Motor",
+                            "start_page": 1098,
+                            "end_page": 1097
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Somatic (General) Sensory",
+                            "start_page": 1098,
+                            "end_page": 1097
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Special Sensory (Taste)",
+                            "start_page": 1098,
+                            "end_page": 1100
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 9,
+                    "topic_title": "VESTIBULOCOCHLEAR NERVE (CN VIII)",
+                    "start_page": 1101,
+                    "end_page": 1101,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 10,
+                    "topic_title": "GLOSSOPHARYNGEAL NERVE (CN IX)",
+                    "start_page": 1102,
+                    "end_page": 1102,
+                    "subtopics": [
+                        {
+                            "subtopic_number": 1,
+                            "subtopic_title": "Somatic (Branchial) Motor",
+                            "start_page": 1102,
+                            "end_page": 1101
+                        },
+                        {
+                            "subtopic_number": 2,
+                            "subtopic_title": "Visceral (Parasympathetic) Motor",
+                            "start_page": 1102,
+                            "end_page": 1101
+                        },
+                        {
+                            "subtopic_number": 3,
+                            "subtopic_title": "Somatic (General) Sensory",
+                            "start_page": 1102,
+                            "end_page": 1101
+                        },
+                        {
+                            "subtopic_number": 4,
+                            "subtopic_title": "Special Sensory (Taste)",
+                            "start_page": 1102,
+                            "end_page": 1102
+                        }
+                    ]
+                },
+                {
+                    "topic_number": 11,
+                    "topic_title": "VAGUS NERVE (CN X)",
+                    "start_page": 1103,
+                    "end_page": 1104,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 12,
+                    "topic_title": "SPINAL ACCESSORY NERVE (CN XI)",
+                    "start_page": 1105,
+                    "end_page": 1104,
+                    "subtopics": []
+                },
+                {
+                    "topic_number": 13,
+                    "topic_title": "HYPOGLOSSAL NERVE (CN XII)",
+                    "start_page": 1105,
+                    "end_page": 1112,
+                    "subtopics": []
+                }
+            ]
+        },
+        {
+            "chapter_number": 21,
+            "chapter_title": "Appendix A: References and Suggested Readings",
+            "start_page": 1113,
+            "end_page": 1116,
+            "topics": []
+        },
+        {
+            "chapter_number": 22,
+            "chapter_title": "Index",
+            "start_page": 1117,
+            "end_page": 1170,
+            "topics": []
+        }
+    ]
+}

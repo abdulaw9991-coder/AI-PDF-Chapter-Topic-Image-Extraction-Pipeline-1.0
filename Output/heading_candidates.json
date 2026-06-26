@@ -1,0 +1,6047 @@
+[
+    {
+        "page": 3,
+        "text": "Introduction",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "1  Thorax",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "2  Abdomen",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "3  Pelvis and Perineum",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "4  Back",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "5  Lower Limb",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "6  Upper Limb",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "7  Head",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "8  Neck",
+        "font_size": 18.0
+    },
+    {
+        "page": 3,
+        "text": "9  Cranial Nerves",
+        "font_size": 18.0
+    },
+    {
+        "page": 5,
+        "text": "Keith L. Moore, M.Sc., Ph.D., D.Sc. (Hon),",
+        "font_size": 14.0
+    },
+    {
+        "page": 5,
+        "text": "F.I.A.C., F.R.S.M., F.A.A.A.",
+        "font_size": 14.0
+    },
+    {
+        "page": 5,
+        "text": "Arthur F. Dalley II, Ph.D.",
+        "font_size": 14.0
+    },
+    {
+        "page": 5,
+        "text": "Anne M. R. Agur, B.Sc. (OT), M.Sc., Ph.D.",
+        "font_size": 14.0
+    },
+    {
+        "page": 5,
+        "text": "MOORE",
+        "font_size": 117.0
+    },
+    {
+        "page": 5,
+        "text": "Seventh Edition",
+        "font_size": 18.0
+    },
+    {
+        "page": 9,
+        "text": "Preface",
+        "font_size": 26.0
+    },
+    {
+        "page": 13,
+        "text": "Acknowledgments",
+        "font_size": 26.0
+    },
+    {
+        "page": 17,
+        "text": "Contents",
+        "font_size": 26.0
+    },
+    {
+        "page": 17,
+        "text": "Introduction to Clinically Oriented",
+        "font_size": 14.0
+    },
+    {
+        "page": 17,
+        "text": "Anatomy/ 1",
+        "font_size": 14.0
+    },
+    {
+        "page": 17,
+        "text": "1",
+        "font_size": 14.0
+    },
+    {
+        "page": 17,
+        "text": "Thorax / 71",
+        "font_size": 14.0
+    },
+    {
+        "page": 17,
+        "text": "2",
+        "font_size": 14.0
+    },
+    {
+        "page": 17,
+        "text": "Abdomen / 181",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "5",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "Lower Limb / 508",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "3",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "Pelvis and Perineum / 326",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "4",
+        "font_size": 14.0
+    },
+    {
+        "page": 18,
+        "text": "Back / 439",
+        "font_size": 14.0
+    },
+    {
+        "page": 19,
+        "text": "7",
+        "font_size": 14.0
+    },
+    {
+        "page": 19,
+        "text": "Head / 820",
+        "font_size": 14.0
+    },
+    {
+        "page": 19,
+        "text": "6",
+        "font_size": 14.0
+    },
+    {
+        "page": 19,
+        "text": "Upper Limb / 670",
+        "font_size": 14.0
+    },
+    {
+        "page": 20,
+        "text": "9",
+        "font_size": 14.0
+    },
+    {
+        "page": 20,
+        "text": "Summary of Cranial",
+        "font_size": 14.0
+    },
+    {
+        "page": 20,
+        "text": "Nerves / 1053",
+        "font_size": 14.0
+    },
+    {
+        "page": 20,
+        "text": "8",
+        "font_size": 14.0
+    },
+    {
+        "page": 20,
+        "text": "Neck / 981",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "List of Clinical Blue Boxes",
+        "font_size": 26.0
+    },
+    {
+        "page": 21,
+        "text": "2",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "Abdomen",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "Introduction to Clinically",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "Oriented Anatomy",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "1",
+        "font_size": 14.0
+    },
+    {
+        "page": 21,
+        "text": "Thorax",
+        "font_size": 14.0
+    },
+    {
+        "page": 22,
+        "text": "3",
+        "font_size": 14.0
+    },
+    {
+        "page": 22,
+        "text": "Pelvis and Perineum",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "6",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "Upper Limb",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "4",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "Back",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "5",
+        "font_size": 14.0
+    },
+    {
+        "page": 23,
+        "text": "Lower Limb",
+        "font_size": 14.0
+    },
+    {
+        "page": 24,
+        "text": "8",
+        "font_size": 14.0
+    },
+    {
+        "page": 24,
+        "text": "Neck",
+        "font_size": 14.0
+    },
+    {
+        "page": 24,
+        "text": "7",
+        "font_size": 14.0
+    },
+    {
+        "page": 24,
+        "text": "Head",
+        "font_size": 14.0
+    },
+    {
+        "page": 25,
+        "text": "9",
+        "font_size": 14.0
+    },
+    {
+        "page": 25,
+        "text": "Summary of Cranial Nerves",
+        "font_size": 14.0
+    },
+    {
+        "page": 27,
+        "text": "INTRODUCTION",
+        "font_size": 14.0
+    },
+    {
+        "page": 27,
+        "text": "CHAPTER 1",
+        "font_size": 14.0
+    },
+    {
+        "page": 27,
+        "text": "CHAPTER 2",
+        "font_size": 14.0
+    },
+    {
+        "page": 27,
+        "text": "Figure Credits",
+        "font_size": 26.0
+    },
+    {
+        "page": 28,
+        "text": "CHAPTER 3",
+        "font_size": 14.0
+    },
+    {
+        "page": 28,
+        "text": "CHAPTER 4",
+        "font_size": 14.0
+    },
+    {
+        "page": 29,
+        "text": "CHAPTER 6",
+        "font_size": 14.0
+    },
+    {
+        "page": 29,
+        "text": "CHAPTER 5",
+        "font_size": 14.0
+    },
+    {
+        "page": 30,
+        "text": "CHAPTER 8",
+        "font_size": 14.0
+    },
+    {
+        "page": 30,
+        "text": "CHAPTER 9",
+        "font_size": 14.0
+    },
+    {
+        "page": 30,
+        "text": "CHAPTER 7",
+        "font_size": 14.0
+    },
+    {
+        "page": 31,
+        "text": "Introduction",
+        "font_size": 42.0
+    },
+    {
+        "page": 31,
+        "text": "to Clinically",
+        "font_size": 42.0
+    },
+    {
+        "page": 31,
+        "text": "Oriented",
+        "font_size": 42.0
+    },
+    {
+        "page": 31,
+        "text": "Anatomy",
+        "font_size": 42.0
+    },
+    {
+        "page": 34,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 41,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 42,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 46,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 49,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 55,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 59,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 66,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 67,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 73,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 76,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 86,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 94,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 100,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 101,
+        "text": "Thorax",
+        "font_size": 42.0
+    },
+    {
+        "page": 101,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 101,
+        "text": "1",
+        "font_size": 160.0
+    },
+    {
+        "page": 102,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 103,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 104,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 104,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 105,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 106,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 107,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 108,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 109,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 111,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 112,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 113,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 114,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 115,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 116,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 116,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 117,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 118,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 120,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 121,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 122,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 123,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 124,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 125,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 126,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 127,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 127,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 128,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 129,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 130,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 131,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 132,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 133,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 134,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 135,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 136,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 136,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 137,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 138,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 139,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 140,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 141,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 142,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 143,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 144,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 145,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 146,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 147,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 148,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 149,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 150,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 151,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 152,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 153,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 154,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 155,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 156,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 157,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 157,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 158,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 159,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 160,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 161,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 162,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 162,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 162,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 162,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 163,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 164,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 164,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 165,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 166,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 167,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 168,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 169,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 170,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 171,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 172,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 173,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 174,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 175,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 176,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 177,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 178,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 179,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 180,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 181,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 182,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 183,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 184,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 185,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 186,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 187,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 188,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 189,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 190,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 190,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 191,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 193,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 195,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 196,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 197,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 198,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 199,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 200,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 201,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 202,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 203,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 204,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 205,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 206,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 207,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 208,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 209,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 210,
+        "text": "Chapter 1  •  Thorax",
+        "font_size": 16.0
+    },
+    {
+        "page": 210,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 211,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 211,
+        "text": "2",
+        "font_size": 160.0
+    },
+    {
+        "page": 211,
+        "text": "Abdomen",
+        "font_size": 42.0
+    },
+    {
+        "page": 212,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 213,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 214,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 215,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 216,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 217,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 218,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 219,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 220,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 221,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 222,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 223,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 224,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 225,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 226,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 227,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 228,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 229,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 230,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 230,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 231,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 232,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 233,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 234,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 235,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 236,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 237,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 238,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 239,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 240,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 241,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 242,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 243,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 244,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 245,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 246,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 246,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 247,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 248,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 249,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 250,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 251,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 252,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 253,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 254,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 255,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 255,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 256,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 257,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 258,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 259,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 260,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 261,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 262,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 263,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 264,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 265,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 266,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 267,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 268,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 269,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 270,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 271,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 272,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 274,
+        "text": "}",
+        "font_size": 43.3
+    },
+    {
+        "page": 274,
+        "text": "}",
+        "font_size": 43.3
+    },
+    {
+        "page": 275,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 276,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 277,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 278,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 279,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 280,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 281,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 283,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 284,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 285,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 286,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 287,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 288,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 289,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 290,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 291,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 292,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 292,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 293,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 294,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 295,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 296,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 297,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 298,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 299,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 300,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 300,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 300,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 300,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 301,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 302,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 303,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 304,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 305,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 306,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 307,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 308,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 309,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 310,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 311,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 312,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 313,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 314,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 315,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 316,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 317,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 318,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 319,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 319,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 320,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 321,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 322,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 323,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 324,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 325,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 326,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 327,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 328,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 329,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 330,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 330,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 331,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 332,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 333,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 334,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 335,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 335,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 336,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 337,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 338,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 339,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 341,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 342,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 343,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 344,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 345,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 346,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 347,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 348,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 349,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 350,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 350,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 351,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 351,
+        "text": "indirectly via the left renal vein. ¨ The IVC: • is the largest",
+        "font_size": 18.0
+    },
+    {
+        "page": 351,
+        "text": "vein and lacks valves; • formed at the L5 vertebral level by",
+        "font_size": 18.0
+    },
+    {
+        "page": 351,
+        "text": "the union of the common iliac veins; • ascends to the T8",
+        "font_size": 18.0
+    },
+    {
+        "page": 351,
+        "text": "• drains poorly oxygenated blood from the body inferior",
+        "font_size": 18.0
+    },
+    {
+        "page": 351,
+        "text": "to the diaphragm; and • receives the venous drainage of",
+        "font_size": 18.0
+    },
+    {
+        "page": 352,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 353,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 354,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 355,
+        "text": "Chapter 2  •  Abdomen",
+        "font_size": 16.0
+    },
+    {
+        "page": 356,
+        "text": "3",
+        "font_size": 160.0
+    },
+    {
+        "page": 356,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 356,
+        "text": "Pelvis and",
+        "font_size": 42.0
+    },
+    {
+        "page": 356,
+        "text": "Perineum",
+        "font_size": 42.0
+    },
+    {
+        "page": 357,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 358,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 359,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 360,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 361,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 362,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 364,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 365,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 366,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 367,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 367,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 368,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 369,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 370,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 371,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 371,
+        "text": "*",
+        "font_size": 19.73
+    },
+    {
+        "page": 371,
+        "text": "*",
+        "font_size": 19.73
+    },
+    {
+        "page": 372,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 373,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 374,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 375,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 376,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 377,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 378,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 379,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 379,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 380,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 381,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 382,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 383,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 384,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 385,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 386,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 387,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 388,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 389,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 390,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 391,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 392,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 392,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 393,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 394,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 395,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 396,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 397,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 398,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 399,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 400,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 401,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 402,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 403,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 404,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 405,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 405,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 406,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 407,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 408,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 409,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 410,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 411,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 412,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 412,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 413,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 414,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 415,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 416,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 417,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 418,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 419,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 420,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 421,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 422,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 423,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 424,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 425,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 426,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 427,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 428,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 429,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 429,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 430,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 431,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 432,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 433,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 434,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 434,
+        "text": "Fasciae and Pouches",
+        "font_size": 14.0
+    },
+    {
+        "page": 434,
+        "text": "of Urogenital Triangle",
+        "font_size": 14.0
+    },
+    {
+        "page": 435,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 436,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 437,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 438,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 439,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 440,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 440,
+        "text": "Features of Anal Triangle",
+        "font_size": 14.0
+    },
+    {
+        "page": 441,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 442,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 443,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 444,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 445,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 446,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 447,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 447,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 448,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 449,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 450,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 451,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 452,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 453,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 454,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 455,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 456,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 457,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 457,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 458,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 459,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 459,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 459,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 460,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 461,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 462,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 463,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 464,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 464,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 465,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 466,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 467,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 468,
+        "text": "Chapter 3  •  Pelvis and Perineum",
+        "font_size": 16.0
+    },
+    {
+        "page": 469,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 469,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 469,
+        "text": "4",
+        "font_size": 160.0
+    },
+    {
+        "page": 469,
+        "text": "Back",
+        "font_size": 42.0
+    },
+    {
+        "page": 470,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 471,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 472,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 473,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 474,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 475,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 476,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 477,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 478,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 479,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 480,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 481,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 482,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 483,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 484,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 485,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 486,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 487,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 488,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 489,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 490,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 490,
+        "text": "*",
+        "font_size": 16.0
+    },
+    {
+        "page": 490,
+        "text": "*",
+        "font_size": 16.0
+    },
+    {
+        "page": 491,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 492,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*",
+        "font_size": 25.0
+    },
+    {
+        "page": 492,
+        "text": "*osteophytes",
+        "font_size": 14.0
+    },
+    {
+        "page": 493,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 493,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 494,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 495,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 496,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 497,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 498,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 499,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 500,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 501,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 502,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 503,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 504,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 505,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 506,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 507,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 508,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 509,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 510,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 511,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 512,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 512,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 513,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 514,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 515,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 516,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 517,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 518,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 519,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 520,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 521,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 522,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 523,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 524,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 525,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 526,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 526,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 527,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 528,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 529,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 530,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 531,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 532,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 533,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 534,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 535,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 536,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 537,
+        "text": "Chapter 4  •  Back",
+        "font_size": 16.0
+    },
+    {
+        "page": 537,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 538,
+        "text": "5",
+        "font_size": 160.0
+    },
+    {
+        "page": 538,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 538,
+        "text": "Lower Limb",
+        "font_size": 42.0
+    },
+    {
+        "page": 539,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 540,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 541,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 542,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 543,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 544,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 545,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 546,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 547,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 548,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 549,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 550,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 551,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 552,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 554,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 555,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 556,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 557,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 558,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 559,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 560,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 561,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 561,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 562,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 563,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 564,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 565,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 566,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 567,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 568,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 569,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 570,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 571,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 571,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 572,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 573,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 574,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 575,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 576,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 577,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 578,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 579,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 580,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 581,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 581,
+        "text": "Neurovascular Structures and",
+        "font_size": 14.0
+    },
+    {
+        "page": 581,
+        "text": "Relationships in Anteromedial Thigh",
+        "font_size": 14.0
+    },
+    {
+        "page": 582,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 583,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 584,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 585,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 586,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 587,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 588,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 589,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 590,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 591,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 592,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 592,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 593,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 595,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 596,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 597,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 598,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 599,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 600,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 601,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 602,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 603,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 604,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 605,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 606,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 607,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 608,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 609,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 610,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 611,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 612,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 613,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 613,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 614,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 615,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 616,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 617,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 617,
+        "text": "Anterior Compartment of Leg",
+        "font_size": 14.0
+    },
+    {
+        "page": 618,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 619,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 620,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 622,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 623,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 624,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 625,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 626,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 627,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 628,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 629,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 630,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 631,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 632,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 633,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 634,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 635,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 636,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 637,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 638,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 638,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 639,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 639,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 639,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 639,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 640,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 641,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 642,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 643,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 644,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 645,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 646,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 647,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 648,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 649,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 650,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 651,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 652,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 653,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 654,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 655,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 656,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 656,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 658,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 659,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 660,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 661,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 662,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 663,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 664,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 665,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 666,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 667,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 668,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 669,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 670,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 671,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 672,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 673,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 674,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 675,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 676,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 677,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 678,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 679,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 680,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 681,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 682,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 684,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 685,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 686,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 687,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 688,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 689,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 690,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 691,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 692,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 693,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 694,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 695,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 696,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 697,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 698,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 699,
+        "text": "Chapter 5  •  Lower Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 699,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 700,
+        "text": "6",
+        "font_size": 160.0
+    },
+    {
+        "page": 700,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 700,
+        "text": "Upper Limb",
+        "font_size": 42.0
+    },
+    {
+        "page": 701,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 702,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 703,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 704,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 705,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 706,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 707,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 708,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 709,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 710,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 711,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 712,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 713,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 714,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 715,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 716,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 717,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 717,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 718,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 719,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 720,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 721,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 722,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 723,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 724,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 725,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 726,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 727,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 727,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 728,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 729,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 730,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 731,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 732,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 733,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 734,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 735,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 736,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 737,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 738,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 739,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 740,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 741,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 742,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 743,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 743,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 744,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 745,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 746,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 747,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 748,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 749,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 750,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 751,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 752,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 752,
+        "text": "*",
+        "font_size": 18.0
+    },
+    {
+        "page": 752,
+        "text": "* *",
+        "font_size": 18.0
+    },
+    {
+        "page": 754,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 755,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 756,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 757,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 758,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 759,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 760,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 760,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 761,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 762,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 763,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 764,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 765,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 766,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 767,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 768,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 769,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 770,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 771,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 772,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 773,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 774,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 774,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 775,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 776,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 777,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 778,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 779,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 780,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 782,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 784,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 786,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 787,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 788,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 789,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 790,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 791,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 792,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 793,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 794,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 795,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 796,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 797,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 798,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 799,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 800,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 800,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 801,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 802,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 803,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 804,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 807,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 808,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 809,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 810,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 811,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 812,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 813,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 814,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 815,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 816,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 817,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 819,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 820,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 821,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 822,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 822,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 823,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 824,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 825,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 826,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 827,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 828,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 829,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 830,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 831,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 832,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 833,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 834,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 835,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 836,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 837,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 838,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 839,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 840,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 841,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 842,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 843,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 844,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 845,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 846,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 847,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 848,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 849,
+        "text": "Chapter 6  •  Upper Limb",
+        "font_size": 16.0
+    },
+    {
+        "page": 849,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 850,
+        "text": "7",
+        "font_size": 160.0
+    },
+    {
+        "page": 850,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 850,
+        "text": "Head",
+        "font_size": 42.0
+    },
+    {
+        "page": 851,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 852,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 853,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 854,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 855,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 856,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 857,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 858,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 859,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 860,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 861,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 862,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 864,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 865,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 866,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 867,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 868,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 869,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 870,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 871,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 872,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 872,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 873,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 874,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 875,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 876,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 877,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 878,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 879,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 880,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 880,
+        "text": "*",
+        "font_size": 14.0
+    },
+    {
+        "page": 881,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 883,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 884,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 885,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 886,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 887,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 888,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 889,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 890,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 891,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 892,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 893,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 894,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 894,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 895,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 896,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 897,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 898,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 899,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 900,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 901,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 902,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 904,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 905,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 906,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 907,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 907,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 908,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 909,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 910,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 911,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 912,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 913,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 914,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 915,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 916,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 917,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 918,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 918,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 919,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 920,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 921,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 922,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 923,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 924,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 925,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 926,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 927,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 928,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 929,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 931,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 933,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 934,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 935,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 936,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 937,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 938,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 939,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 940,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 941,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 942,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 943,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 943,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 944,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 945,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 946,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 947,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 950,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 951,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 952,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 953,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 954,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 956,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 957,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 958,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 958,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 959,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 960,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 961,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 962,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 963,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 964,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 965,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 966,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 967,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 968,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 969,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 970,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 971,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 972,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 973,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 974,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 975,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 976,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 977,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 978,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 979,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 980,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 980,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 981,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 982,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 984,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 985,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 985,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 986,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 988,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 989,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 990,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 991,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 992,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 993,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 994,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 995,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 995,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 996,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 997,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 998,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 999,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1000,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1001,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1002,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1003,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1004,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1005,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1006,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1007,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1008,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1009,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1010,
+        "text": "Chapter 7  •  Head",
+        "font_size": 16.0
+    },
+    {
+        "page": 1010,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1011,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 1011,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 1011,
+        "text": "8",
+        "font_size": 160.0
+    },
+    {
+        "page": 1011,
+        "text": "Neck",
+        "font_size": 42.0
+    },
+    {
+        "page": 1012,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1013,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1014,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1015,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1015,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1016,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1017,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1018,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1019,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1019,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1022,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1024,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1025,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1026,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1027,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1028,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1029,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1030,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1031,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1033,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1034,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1035,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1036,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1037,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1038,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1039,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1040,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1041,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1041,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1042,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1043,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1044,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1045,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1046,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1047,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1048,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1048,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1049,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1050,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1051,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1052,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1053,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1054,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1055,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1056,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1057,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1058,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1059,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1060,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1062,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1063,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1064,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1065,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1066,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1067,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1068,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1069,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1070,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1071,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1072,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1073,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1074,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1075,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1076,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1077,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1078,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1079,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1080,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1080,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1081,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1082,
+        "text": "Chapter 8  •  Neck",
+        "font_size": 16.0
+    },
+    {
+        "page": 1083,
+        "text": "CHAPTER",
+        "font_size": 14.0
+    },
+    {
+        "page": 1083,
+        "text": "9",
+        "font_size": 160.0
+    },
+    {
+        "page": 1083,
+        "text": "Summary of",
+        "font_size": 42.0
+    },
+    {
+        "page": 1083,
+        "text": "Cranial Nerves",
+        "font_size": 42.0
+    },
+    {
+        "page": 1084,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1085,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1086,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1086,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1088,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1089,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1091,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1092,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1092,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1093,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1094,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1094,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1095,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1095,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1096,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1097,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1097,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1098,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1098,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1099,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1100,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1100,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1101,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1102,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1102,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1102,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1103,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1104,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1104,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1105,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1105,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1108,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1108,
+        "text": "The Bottom Line",
+        "font_size": 18.0
+    },
+    {
+        "page": 1109,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1110,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1111,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1112,
+        "text": "Chapter 9  •  Summary of  Cranial Nerves",
+        "font_size": 16.0
+    },
+    {
+        "page": 1113,
+        "text": "References and Suggested Reading",
+        "font_size": 18.0
+    },
+    {
+        "page": 1113,
+        "text": "A",
+        "font_size": 68.0
+    },
+    {
+        "page": 1114,
+        "text": "Appendix A  •  References and Suggested Reading",
+        "font_size": 16.0
+    },
+    {
+        "page": 1115,
+        "text": "Appendix A  •  References and Suggested Reading",
+        "font_size": 16.0
+    },
+    {
+        "page": 1116,
+        "text": "Appendix A  •  References and Suggested Reading",
+        "font_size": 16.0
+    },
+    {
+        "page": 1117,
+        "text": "Index",
+        "font_size": 26.0
+    }
+]

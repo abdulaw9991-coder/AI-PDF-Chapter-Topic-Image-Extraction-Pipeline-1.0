@@ -1,0 +1,48 @@
+{
+    "Version 1": {
+        "Version": "V1",
+        "Ground Truth": 40,
+        "Detected": 37,
+        "TP": 35,
+        "FP": 2,
+        "FN": 5,
+        "Precision": 0.9459,
+        "Recall": 0.875,
+        "F1 Score": 0.9091,
+        "Accuracy": 0.8333
+    },
+    "Version 2": {
+        "Version": "V2",
+        "Ground Truth": 40,
+        "Detected": 39,
+        "TP": 38,
+        "FP": 1,
+        "FN": 2,
+        "Precision": 0.9744,
+        "Recall": 0.95,
+        "F1 Score": 0.962,
+        "Accuracy": 0.9268
+    },
+    "Comparison": {
+        "Precision": {
+            "Version1": 0.9459,
+            "Version2": 0.9744,
+            "Difference": 0.0285
+        },
+        "Recall": {
+            "Version1": 0.875,
+            "Version2": 0.95,
+            "Difference": 0.075
+        },
+        "F1 Score": {
+            "Version1": 0.9091,
+            "Version2": 0.962,
+            "Difference": 0.0529
+        },
+        "Accuracy": {
+            "Version1": 0.8333,
+            "Version2": 0.9268,
+            "Difference": 0.0935
+        }
+    }
+}
